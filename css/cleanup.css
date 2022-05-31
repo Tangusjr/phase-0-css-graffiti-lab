@@ -1,1 +1,30 @@
 /* write your override styles here */
+.parent {
+  display: none;
+  width: auto;
+}
+.tag-1 {
+  display: none;
+  width: auto;
+}
+.tag-2 {
+  display: none;
+  width: auto;
+}
+#wall {
+  display: none;
+  width: auto;
+}
+.tag-3 {
+  display: none;
+  width: auto;
+}
+.tag-4 {
+  display: none;
+  width: auto;
+}
+.tag-5 {
+  display: none;
+  width: auto;
+}
+
